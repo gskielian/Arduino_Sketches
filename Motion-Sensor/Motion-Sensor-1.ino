@@ -1,14 +1,6 @@
-//Create a place to store the PIR sensor value
+//We can print values
 
-
-
-
-//value will be 
-//"1" when high 
-// or
-//"0" when low
-
-int sensorValue=0;
+int someValue=35;
 
 void setup() {
 
