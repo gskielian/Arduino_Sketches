@@ -11,7 +11,7 @@ void setup() {
 void loop() {
 
   Serial.println("Hello Serial");
-  Serial.println("sensorValue");  
+  Serial.println(someValue);  
   delay(10);
 
 }
